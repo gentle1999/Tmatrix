@@ -2,7 +2,7 @@
 
 作者：汤麻酱
 
-版本：0.0.0
+### 0.0.0
 
 这是一个矩阵运算库，主体数据结构使用了CSDN用户[shuoyueqishilove](https://blog.csdn.net/shuoyueqishilove)的[博文](https://blog.csdn.net/shuoyueqishilove/article/details/80427501)中的矩阵，在其对矩阵的基本运算基础上添加了一些较为高级的算法。
 
@@ -30,7 +30,7 @@
 
 -----
 
-0.0.1
+### 0.0.1
 
 增加了功能，包括：
 
